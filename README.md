@@ -18,7 +18,7 @@ Data can be fetched for a given latitude with the following URL:
 separated list.
 
 Example:
-`GET /api/44/33/?sources=noaa,accuweather`
+`GET /api/average-temperature/44/33/?sources=noaa,accuweather`
 
 ## Installation
 
