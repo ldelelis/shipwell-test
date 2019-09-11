@@ -1,6 +1,6 @@
 import requests
 
-from testusa.settings import WEATHER_SERVICE_URL
+from weatherapi.settings import WEATHER_SERVICE_URL
 from .exceptions import NonExistentServiceException
 
 class TemperatureService:
