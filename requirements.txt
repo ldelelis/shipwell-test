@@ -3,7 +3,7 @@ certifi==2019.6.16
 chardet==3.0.4
 decorator==4.4.0
 Django==2.2.5
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 idna==2.8
 jedi==0.15.1
 parso==0.5.1
